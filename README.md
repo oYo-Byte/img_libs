@@ -1,2 +1,2 @@
 # img_libs
-这是图床
+这是Github图床
